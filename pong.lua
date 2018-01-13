@@ -1,4 +1,4 @@
--- pong game v4 : m1.txt deleted --
+-- pong game v1.0
 
 -- main game class 
 local game = {
